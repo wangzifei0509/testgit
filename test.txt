@@ -4,4 +4,6 @@ git has a mutale index called stage.
 test first.
 
 
-test��һ���ύ
+test��һ���ύ
+
+第二次测试的第二次提交
